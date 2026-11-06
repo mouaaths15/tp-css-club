@@ -21,7 +21,7 @@ a{
     color: var(--couleur-principale);
 }
 .menu a{
-    color: fff;
+    color: #fff;
     text-decoration: none;
 
 }
@@ -94,7 +94,6 @@ img {
     margin: 0 auto;
     padding: 2rem var(--espace);
 }
-
 .contenu h2 {
     padding-bottom: 0.3rem;
     border-bottom: 3px solid var(--couleur-accent);
@@ -111,7 +110,6 @@ img {
     border-radius: var(--rayon);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 }
-
 .carte h3 {
     margin-top: 0;
 }
@@ -137,8 +135,6 @@ img {
 .galerie img {
     border-radius: var(--rayon);
 }
-
-/* Formulaire */
 .formulaire {
     max-width: 600px;
     margin: 0 auto;
@@ -146,11 +142,9 @@ img {
     border: 1px solid #d8e0ea;
     border-radius: var(--rayon);
 }
-
 .champ {
     margin-bottom: 1rem;
 }
-
 .champ input,
 .champ select,
 .champ textarea {
@@ -159,7 +153,6 @@ img {
     border: 1px solid #94a3b8;
     border-radius: 6px;
 }
-
 .site-footer {
     padding: 1.5rem var(--espace);
 }
